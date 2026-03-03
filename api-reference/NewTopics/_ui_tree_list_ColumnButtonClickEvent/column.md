@@ -1,13 +1,10 @@
 ---
-id: CellAddress
-type: Object
-module: common/export/excel
-export: CellAddress
+id: _ui_tree_list_ColumnButtonClickEvent.column
+type: dxTreeListColumn
 ---
 ---
 ##### shortDescription
 <!-- Description goes here -->
 
 ---
-
 <!-- Description goes here -->
